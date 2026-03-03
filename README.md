@@ -34,7 +34,8 @@ I regularly practice coding to improve my logical thinking and strengthen my und
 - Data Structures & Algorithms  
 - Full Stack Development  
 - Backend Fundamentals  
-- Real-world Project Development  
+- Real-world Project Development
+- personal ai buliding
 
 ---
 
